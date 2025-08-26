@@ -1,0 +1,18 @@
+# CS 310 - W1 Intro to Bash Scripting
+
+By Ethan L'Heureux
+
+## What does 'man' mean
+Allows us to read documentation on a specific coreutil commans or library.
+
+## Whtat does it mean to meake a bash script "executable" 
+To mane the script runnable in the terminal/
+A runnable script executes each command, line by line.
+
+To make a file exewcutable we run:
+'''
+chmod +x <filename>
+'''
+
+## What aspect of the course are you most excited about
+Scripting and trouble-shooting. 
